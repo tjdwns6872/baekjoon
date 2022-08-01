@@ -16,11 +16,7 @@ public class explanation1 {
 				break;
 			}
 			total -= b;
-		}/*
-		for(int total = 0; total < v; total+=a) {
-			day++;
-			total -= b;
-		}*/
+		}
 		sc.close();
 		System.out.println(day);
 	}
