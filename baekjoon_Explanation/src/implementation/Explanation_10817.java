@@ -14,6 +14,7 @@ public class Explanation_10817 {
 		list.add(sc.nextInt());
 		list.sort(null);
 		System.out.println(list.get(1));
-		
+	
+		sc.close();
 	}
 }
