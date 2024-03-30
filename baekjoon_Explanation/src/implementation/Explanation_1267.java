@@ -23,5 +23,4 @@ public class Explanation_1267 {
 		}
 		sc.close();
 	}
-
 }
